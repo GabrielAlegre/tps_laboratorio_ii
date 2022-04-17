@@ -88,9 +88,6 @@ namespace Entidades
         {
             int resultadoEntero = 0;
             string resultadoString = "";
-            double binarioAbsoluto = Math.Abs(double.Parse(strBinario));
-            double binarioEntero = (int)binarioAbsoluto;
-            strBinario = binarioEntero.ToString();
             int cantidadCaracteres = strBinario.Length;
             bool esBinario = EsBinario(strBinario);
 
