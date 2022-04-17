@@ -86,11 +86,13 @@ namespace Entidades
         /// <returns>En caso de que afirmativamente el valor recibido sea un binario retornara el valor decimal de dicho numero binario. Caso contrario retornará "Valor inválido".</returns>
         public static string BinarioDecimal(string strBinario)
         {
-            bool esBinario = EsBinario(strBinario);
-
             int resultadoEntero = 0;
             string resultadoString = "";
+            double binarioAbsoluto = Math.Abs(double.Parse(strBinario));
+            double binarioEntero = (int)binarioAbsoluto;
+            strBinario = binarioEntero.ToString();
             int cantidadCaracteres = strBinario.Length;
+            bool esBinario = EsBinario(strBinario);
 
             if (esBinario)
             {
