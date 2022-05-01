@@ -29,6 +29,7 @@ namespace MiCalculadora
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCalculadora));
             this.lblResultado = new System.Windows.Forms.Label();
             this.btnOperar = new System.Windows.Forms.Button();
             this.btnConvertirADecimal = new System.Windows.Forms.Button();
@@ -93,6 +94,7 @@ namespace MiCalculadora
             // 
             // btnCerrar
             // 
+            this.btnCerrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnCerrar.Location = new System.Drawing.Point(239, 118);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(100, 33);
@@ -143,7 +145,8 @@ namespace MiCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(525, 229);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(580, 240);
             this.Controls.Add(this.txtNumero2);
             this.Controls.Add(this.txtNumero1);
             this.Controls.Add(this.lstOperaciones);
@@ -154,6 +157,7 @@ namespace MiCalculadora
             this.Controls.Add(this.btnConvertirADecimal);
             this.Controls.Add(this.btnOperar);
             this.Controls.Add(this.lblResultado);
+            this.ForeColor = System.Drawing.Color.Black;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
