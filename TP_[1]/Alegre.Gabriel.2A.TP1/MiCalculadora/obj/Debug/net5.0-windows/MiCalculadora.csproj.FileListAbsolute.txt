@@ -40,3 +40,4 @@ C:\Users\Gabriel\source\repos\tps_laboratorio_ii\TP_[1]\Alegre.Gabriel.2A.TP1\Mi
 C:\Users\Gabriel\source\repos\tps_laboratorio_ii\TP_[1]\Alegre.Gabriel.2A.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
 C:\Users\Gabriel\source\repos\tps_laboratorio_ii\TP_[1]\Alegre.Gabriel.2A.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
 C:\Users\Gabriel\source\repos\tps_laboratorio_ii\TP_[1]\Alegre.Gabriel.2A.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\tps_laboratorio_ii\TP_[1]\Alegre.Gabriel.2A.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.Properties.Resources.resources
