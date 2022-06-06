@@ -1,11 +1,11 @@
 {
-  "RutaSerializarJson": "C:\\Users\\Gabriel\\source\\repos\\TP_[3]\\Alegre.Gabriel.2A.TP3\\Forms\\bin\\Debug\\net5.0-windows\\InformeEstadistico.json",
-  "CantidadOperacionesRealizadas": 28,
+  "RutaSerializarJson": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[3]\\Alegre.Gabriel.2A.TP3\\Forms\\bin\\Debug\\net5.0-windows\\InformeEstadistico.json",
+  "CantidadOperacionesRealizadas": 29,
   "CantidadDeClientesQueDieronBaja": 8,
-  "CantidadDeGenteEnElSistema": 9,
+  "CantidadDeGenteEnElSistema": 10,
   "CantClientesQueModificanAlgunDato": 6,
   "CantNoActivosQueSeVolvieronADarDeAlta": 5,
   "CantidadDeGenteNoActiva": 3,
-  "CantidadDeGenteActiva": 6,
-  "CantidadDeAltas": 14
+  "CantidadDeGenteActiva": 7,
+  "CantidadDeAltas": 15
 }

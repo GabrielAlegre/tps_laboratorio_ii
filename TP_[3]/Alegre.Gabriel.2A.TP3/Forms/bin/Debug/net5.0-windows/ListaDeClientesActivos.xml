@@ -157,4 +157,22 @@
       <DisneyPlusGratisPorPlanMedio>true</DisneyPlusGratisPorPlanMedio>
     </PlanEligido>
   </Cliente>
+  <Cliente>
+    <Nombre>Jorge</Nombre>
+    <Apellido>Ferraresi</Apellido>
+    <DireccionDelDomicilio>Mitre 750</DireccionDelDomicilio>
+    <Dni>23456789</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>10</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanPremium">
+      <TieneFibraOptica>true</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>6000</Precio>
+      <CantidadDeMegasInternet>1000</CantidadDeMegasInternet>
+      <Netflix>true</Netflix>
+      <PackFutbol>true</PackFutbol>
+      <AmazonPrime>true</AmazonPrime>
+    </PlanEligido>
+  </Cliente>
 </ArrayOfCliente>
