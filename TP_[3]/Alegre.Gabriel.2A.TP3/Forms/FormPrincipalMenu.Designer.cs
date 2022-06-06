@@ -50,18 +50,20 @@ namespace Forms
             // pictureBoxFotoPrincipal
             // 
             this.pictureBoxFotoPrincipal.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxFotoPrincipal.Image")));
-            this.pictureBoxFotoPrincipal.Location = new System.Drawing.Point(240, 92);
+            this.pictureBoxFotoPrincipal.Location = new System.Drawing.Point(211, 68);
+            this.pictureBoxFotoPrincipal.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBoxFotoPrincipal.Name = "pictureBoxFotoPrincipal";
-            this.pictureBoxFotoPrincipal.Size = new System.Drawing.Size(632, 429);
+            this.pictureBoxFotoPrincipal.Size = new System.Drawing.Size(549, 322);
             this.pictureBoxFotoPrincipal.TabIndex = 0;
             this.pictureBoxFotoPrincipal.TabStop = false;
             // 
             // pictureBoxLogo
             // 
             this.pictureBoxLogo.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxLogo.Image")));
-            this.pictureBoxLogo.Location = new System.Drawing.Point(-1, 0);
+            this.pictureBoxLogo.Location = new System.Drawing.Point(10, 5);
+            this.pictureBoxLogo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBoxLogo.Name = "pictureBoxLogo";
-            this.pictureBoxLogo.Size = new System.Drawing.Size(240, 104);
+            this.pictureBoxLogo.Size = new System.Drawing.Size(210, 78);
             this.pictureBoxLogo.TabIndex = 1;
             this.pictureBoxLogo.TabStop = false;
             // 
@@ -70,9 +72,10 @@ namespace Forms
             this.btnInformeEstadistico.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(16)))), ((int)(((byte)(59)))));
             this.btnInformeEstadistico.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnInformeEstadistico.ForeColor = System.Drawing.Color.Transparent;
-            this.btnInformeEstadistico.Location = new System.Drawing.Point(266, 12);
+            this.btnInformeEstadistico.Location = new System.Drawing.Point(233, 9);
+            this.btnInformeEstadistico.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnInformeEstadistico.Name = "btnInformeEstadistico";
-            this.btnInformeEstadistico.Size = new System.Drawing.Size(223, 74);
+            this.btnInformeEstadistico.Size = new System.Drawing.Size(195, 56);
             this.btnInformeEstadistico.TabIndex = 14;
             this.btnInformeEstadistico.Text = "Informe estadistico de los servicios";
             this.toolTipFormPrincipal.SetToolTip(this.btnInformeEstadistico, "Informe estadistico de las operaciones realizadas por el empleado ");
@@ -84,9 +87,10 @@ namespace Forms
             this.btnModificar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(16)))), ((int)(((byte)(59)))));
             this.btnModificar.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnModificar.ForeColor = System.Drawing.Color.Transparent;
-            this.btnModificar.Location = new System.Drawing.Point(11, 196);
+            this.btnModificar.Location = new System.Drawing.Point(10, 147);
+            this.btnModificar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnModificar.Name = "btnModificar";
-            this.btnModificar.Size = new System.Drawing.Size(223, 74);
+            this.btnModificar.Size = new System.Drawing.Size(195, 56);
             this.btnModificar.TabIndex = 19;
             this.btnModificar.Text = "Modificar Cliente/servicio";
             this.toolTipFormPrincipal.SetToolTip(this.btnModificar, "Modificar el servicio (O algun otro dato) de un cliente activo");
@@ -98,9 +102,10 @@ namespace Forms
             this.btnMostrarClientes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(16)))), ((int)(((byte)(59)))));
             this.btnMostrarClientes.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnMostrarClientes.ForeColor = System.Drawing.Color.Transparent;
-            this.btnMostrarClientes.Location = new System.Drawing.Point(11, 356);
+            this.btnMostrarClientes.Location = new System.Drawing.Point(10, 267);
+            this.btnMostrarClientes.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnMostrarClientes.Name = "btnMostrarClientes";
-            this.btnMostrarClientes.Size = new System.Drawing.Size(223, 74);
+            this.btnMostrarClientes.Size = new System.Drawing.Size(195, 56);
             this.btnMostrarClientes.TabIndex = 16;
             this.btnMostrarClientes.Text = "Mostrar clientes";
             this.toolTipFormPrincipal.SetToolTip(this.btnMostrarClientes, "Listado de clientes");
@@ -112,9 +117,10 @@ namespace Forms
             this.btnHistorial.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(16)))), ((int)(((byte)(59)))));
             this.btnHistorial.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnHistorial.ForeColor = System.Drawing.Color.Transparent;
-            this.btnHistorial.Location = new System.Drawing.Point(11, 436);
+            this.btnHistorial.Location = new System.Drawing.Point(10, 327);
+            this.btnHistorial.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnHistorial.Name = "btnHistorial";
-            this.btnHistorial.Size = new System.Drawing.Size(223, 74);
+            this.btnHistorial.Size = new System.Drawing.Size(195, 56);
             this.btnHistorial.TabIndex = 18;
             this.btnHistorial.Text = "Historial de operaciones";
             this.toolTipFormPrincipal.SetToolTip(this.btnHistorial, "Mostra el historial de todas las operaciones realizadas");
@@ -126,9 +132,10 @@ namespace Forms
             this.btnDarDeBaja.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(16)))), ((int)(((byte)(59)))));
             this.btnDarDeBaja.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnDarDeBaja.ForeColor = System.Drawing.Color.Transparent;
-            this.btnDarDeBaja.Location = new System.Drawing.Point(11, 276);
+            this.btnDarDeBaja.Location = new System.Drawing.Point(10, 207);
+            this.btnDarDeBaja.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDarDeBaja.Name = "btnDarDeBaja";
-            this.btnDarDeBaja.Size = new System.Drawing.Size(223, 74);
+            this.btnDarDeBaja.Size = new System.Drawing.Size(195, 56);
             this.btnDarDeBaja.TabIndex = 17;
             this.btnDarDeBaja.Text = "Baja Cliente/servicio";
             this.toolTipFormPrincipal.SetToolTip(this.btnDarDeBaja, "Dar de baja un cliente y en consecuencia el servicio adquirido por el mismo tambi" +
@@ -141,9 +148,10 @@ namespace Forms
             this.btnAlta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(16)))), ((int)(((byte)(59)))));
             this.btnAlta.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnAlta.ForeColor = System.Drawing.Color.Transparent;
-            this.btnAlta.Location = new System.Drawing.Point(11, 116);
+            this.btnAlta.Location = new System.Drawing.Point(10, 87);
+            this.btnAlta.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAlta.Name = "btnAlta";
-            this.btnAlta.Size = new System.Drawing.Size(223, 74);
+            this.btnAlta.Size = new System.Drawing.Size(195, 56);
             this.btnAlta.TabIndex = 15;
             this.btnAlta.Text = "Alta Cliente/Servicio";
             this.toolTipFormPrincipal.SetToolTip(this.btnAlta, "Dar de alta un cliente ofreciendole los respectivos planes");
@@ -155,9 +163,9 @@ namespace Forms
             this.lblFecha.AutoSize = true;
             this.lblFecha.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.lblFecha.ForeColor = System.Drawing.Color.Transparent;
-            this.lblFecha.Location = new System.Drawing.Point(521, 62);
+            this.lblFecha.Location = new System.Drawing.Point(456, 46);
             this.lblFecha.Name = "lblFecha";
-            this.lblFecha.Size = new System.Drawing.Size(70, 24);
+            this.lblFecha.Size = new System.Drawing.Size(59, 20);
             this.lblFecha.TabIndex = 21;
             this.lblFecha.Text = "Fecha";
             // 
@@ -166,9 +174,9 @@ namespace Forms
             this.lblHora.AutoSize = true;
             this.lblHora.Font = new System.Drawing.Font("Mongolian Baiti", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.lblHora.ForeColor = System.Drawing.Color.Transparent;
-            this.lblHora.Location = new System.Drawing.Point(594, 25);
+            this.lblHora.Location = new System.Drawing.Point(520, 19);
             this.lblHora.Name = "lblHora";
-            this.lblHora.Size = new System.Drawing.Size(60, 24);
+            this.lblHora.Size = new System.Drawing.Size(51, 20);
             this.lblHora.TabIndex = 20;
             this.lblHora.Text = "Hora";
             // 
@@ -179,10 +187,10 @@ namespace Forms
             // 
             // FormPrincipalMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(4)))), ((int)(((byte)(51)))));
-            this.ClientSize = new System.Drawing.Size(869, 521);
+            this.ClientSize = new System.Drawing.Size(760, 391);
             this.Controls.Add(this.lblFecha);
             this.Controls.Add(this.lblHora);
             this.Controls.Add(this.btnModificar);
@@ -194,6 +202,7 @@ namespace Forms
             this.Controls.Add(this.pictureBoxLogo);
             this.Controls.Add(this.pictureBoxFotoPrincipal);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormPrincipalMenu";
