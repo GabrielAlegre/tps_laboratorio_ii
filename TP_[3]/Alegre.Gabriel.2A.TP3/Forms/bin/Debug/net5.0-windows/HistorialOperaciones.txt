@@ -1,0 +1,109 @@
+domingo, 5 de junio de 2022 23:49hs - Se realizo el alta de un cliente:
+Llamado: Daenerys
+Con Dni: 44902904
+Adquirio el PlanPremium
+
+domingo, 5 de junio de 2022 23:50hs - Se realizo el alta de un cliente:
+Llamado: Jon 
+Con Dni: 45902905
+Adquirio el PlanIntermedio
+
+domingo, 5 de junio de 2022 23:51hs - Se realizo el alta de un cliente:
+Llamado: Andres Ciro
+Con Dni: 46904906
+Adquirio el PlanPremium
+
+domingo, 5 de junio de 2022 23:52hs - Se realizo el alta de un cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+Adquirio el PlanBasico
+
+domingo, 5 de junio de 2022 23:55hs - Se realizo el alta de un cliente:
+Llamado: Mercedes
+Con Dni: 47904907
+Adquirio el PlanIntermedio
+
+domingo, 5 de junio de 2022 23:58hs - Se realizo el alta de un cliente:
+Llamado: Obi-Wan
+Con Dni: 43334242
+Adquirio el PlanPremium
+
+lunes, 6 de junio de 2022 00:10hs - Se realizo la baja del cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+
+lunes, 6 de junio de 2022 00:10hs - Se realizo el alta de un cliente que anteriormente se habia dado de baja
+Llamado: Gabriel
+Con DNI: 43901903
+
+lunes, 6 de junio de 2022 00:56hs - Se realizo una modificacion de datos al cliente:
+Llamado: Daenerys
+Con Dni: 44902904
+
+lunes, 6 de junio de 2022 01:12hs - Se realizo la baja del cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+
+lunes, 6 de junio de 2022 01:12hs - Se realizo el alta de un cliente que anteriormente se habia dado de baja
+Llamado: Gabriel
+Con DNI: 43901903
+lunes, 6 de junio de 2022 01:12hs - Se realizo la baja del cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+
+lunes, 6 de junio de 2022 01:13hs - Se realizo el alta de un cliente que anteriormente se habia dado de baja
+Llamado: Gabriel
+Con DNI: 43901903
+lunes, 6 de junio de 2022 02:23hs - Se realizo la baja del cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+
+lunes, 6 de junio de 2022 02:56hs - Se realizo el alta de un cliente que anteriormente se habia dado de baja
+Llamado: Gabriel
+Con DNI: 43901903
+lunes, 6 de junio de 2022 02:58hs - Se realizo la baja del cliente:
+Llamado: Mercedes
+Con Dni: 47904907
+
+lunes, 6 de junio de 2022 02:59hs - Se realizo una modificacion de datos al cliente:
+Llamado: Gabriellllllll
+Con Dni: 43901903
+
+lunes, 6 de junio de 2022 03:00hs - Se realizo el alta de un cliente:
+Llamado: Jorge Daniel
+Con Dni: 28028001
+Adquirio el PlanPremium
+
+lunes, 6 de junio de 2022 03:00hs - Se realizo una modificacion de datos al cliente:
+Llamado: Jorge Daniel
+Con Dni: 28028001
+
+lunes, 6 de junio de 2022 06:14hs - Se realizo el alta de un cliente:
+Llamado: Lionel
+Con Dni: 12345678
+Adquirio el PlanPremium
+
+lunes, 6 de junio de 2022 06:14hs - Se realizo la baja del cliente:
+Llamado: Lionel
+Con Dni: 12345678
+
+lunes, 6 de junio de 2022 06:14hs - Se realizo el alta de un cliente que anteriormente se habia dado de baja
+Llamado: Lionel
+Con DNI: 12345678
+lunes, 6 de junio de 2022 06:16hs - Se realizo el alta de un cliente:
+Llamado: Richard
+Con Dni: 67644758
+Adquirio el PlanIntermedio
+
+lunes, 6 de junio de 2022 06:16hs - Se realizo la baja del cliente:
+Llamado: Richard
+Con Dni: 67644758
+
+lunes, 6 de junio de 2022 06:17hs - Se realizo una modificacion de datos al cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+
+lunes, 6 de junio de 2022 06:17hs - Se realizo la baja del cliente:
+Llamado: Gabriel
+Con Dni: 43901903
+
