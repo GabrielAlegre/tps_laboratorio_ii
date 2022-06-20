@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj": {}
+    "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj",
         "projectName": "Forms",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\Forms.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\tps_laboratorio_ii\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Entidades\\Entidades.csproj"
               }
             }
           }

@@ -273,7 +273,7 @@ namespace Forms
         {
             while (barraDeProgreso.Value < barraDeProgreso.Maximum && !cancelacion.IsCancellationRequested)
             {
-                Thread.Sleep(tiempoDeEsperaRandom.Next(150, 300));
+                Thread.Sleep(tiempoDeEsperaRandom.Next(112, 150));
                 AumentarBarra(barraDeProgreso, informacionDelProgreso, Task.CurrentId.ToString());
             }
         }

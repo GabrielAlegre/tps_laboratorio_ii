@@ -198,7 +198,11 @@ namespace Forms
             this.Controls.Add(this.lblDireccion);
             this.Controls.Add(this.lblLocalidad);
             this.ForeColor = System.Drawing.Color.White;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FormAltaSucursal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormAltaSucursal";
             this.Load += new System.EventHandler(this.FormAltaSucursal_Load);
             this.groupBox1.ResumeLayout(false);

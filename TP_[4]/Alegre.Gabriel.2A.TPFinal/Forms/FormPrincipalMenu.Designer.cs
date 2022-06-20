@@ -193,7 +193,7 @@ namespace Forms
             this.btnQuitarBarras.Location = new System.Drawing.Point(10, 570);
             this.btnQuitarBarras.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnQuitarBarras.Name = "btnQuitarBarras";
-            this.btnQuitarBarras.Size = new System.Drawing.Size(899, 25);
+            this.btnQuitarBarras.Size = new System.Drawing.Size(901, 25);
             this.btnQuitarBarras.TabIndex = 33;
             this.btnQuitarBarras.Text = "Quitar barras";
             this.toolTipFormPrincipal.SetToolTip(this.btnQuitarBarras, "Al presionar el boton se quitaran las barras de tareas");
