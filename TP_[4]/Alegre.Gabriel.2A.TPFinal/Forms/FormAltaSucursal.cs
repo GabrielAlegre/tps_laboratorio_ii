@@ -55,7 +55,7 @@ namespace Forms
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Ups, ocurrio un error a la hora de agregar una sucursal a la base de datos\n\n" + ex.Message);
+                    MessageBox.Show("Ups, ocurrio un error a la hora de agregar una sucursal a la base de datos\n\n" + ex.Message, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
             }
             else

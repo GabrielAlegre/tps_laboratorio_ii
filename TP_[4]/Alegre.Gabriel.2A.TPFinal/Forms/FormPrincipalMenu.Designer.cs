@@ -181,7 +181,7 @@ namespace Forms
             this.btnSucursales.Size = new System.Drawing.Size(195, 56);
             this.btnSucursales.TabIndex = 22;
             this.btnSucursales.Text = "Sucursales";
-            this.toolTipFormPrincipal.SetToolTip(this.btnSucursales, "Informe estadistico de las operaciones realizadas por el empleado ");
+            this.toolTipFormPrincipal.SetToolTip(this.btnSucursales, "Eliminar, Agregar y Ver sucursales de NetCom");
             this.btnSucursales.UseVisualStyleBackColor = false;
             this.btnSucursales.Click += new System.EventHandler(this.btnSucursales_Click);
             // 
