@@ -1,0 +1,11 @@
+{
+  "RutaSerializarJson": "C:\\Users\\Gabriel\\source\\repos\\TP_[4]\\Alegre.Gabriel.2A.TPFinal\\Forms\\bin\\Debug\\net5.0-windows\\InformeEstadistico.json",
+  "CantidadOperacionesRealizadas": 35,
+  "CantidadDeClientesQueDieronBaja": 10,
+  "CantidadDeGenteEnElSistema": 12,
+  "CantClientesQueModificanAlgunDato": 7,
+  "CantNoActivosQueSeVolvieronADarDeAlta": 6,
+  "CantidadDeGenteNoActiva": 4,
+  "CantidadDeGenteActiva": 8,
+  "CantidadDeAltas": 18
+}
