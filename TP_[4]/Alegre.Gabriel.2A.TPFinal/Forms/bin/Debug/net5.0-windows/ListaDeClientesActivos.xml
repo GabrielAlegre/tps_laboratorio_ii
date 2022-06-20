@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <Nombre>Daenerys</Nombre>
+    <Apellido>Targaryen</Apellido>
+    <DireccionDelDomicilio>Marconi 443</DireccionDelDomicilio>
+    <Dni>44902904</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>1</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanPremium">
+      <TieneFibraOptica>true</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>6000</Precio>
+      <CantidadDeMegasInternet>1000</CantidadDeMegasInternet>
+      <Netflix>true</Netflix>
+      <PackFutbol>true</PackFutbol>
+      <AmazonPrime>true</AmazonPrime>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Jon </Nombre>
+    <Apellido>Snow</Apellido>
+    <DireccionDelDomicilio>Av mitre 750</DireccionDelDomicilio>
+    <Dni>45902905</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>2</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanIntermedio">
+      <TieneFibraOptica>false</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>3500</Precio>
+      <CantidadDeMegasInternet>100</CantidadDeMegasInternet>
+      <ParamountPlusGratisPorPlanMedio>true</ParamountPlusGratisPorPlanMedio>
+      <DisneyPlusGratisPorPlanMedio>true</DisneyPlusGratisPorPlanMedio>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Andres Ciro</Nombre>
+    <Apellido>Martinez</Apellido>
+    <DireccionDelDomicilio>Av Belgrano 546</DireccionDelDomicilio>
+    <Dni>46904906</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>3</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanPremium">
+      <TieneFibraOptica>true</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>6000</Precio>
+      <CantidadDeMegasInternet>1000</CantidadDeMegasInternet>
+      <Netflix>true</Netflix>
+      <PackFutbol>true</PackFutbol>
+      <AmazonPrime>true</AmazonPrime>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Gabriel</Nombre>
+    <Apellido>Alegre</Apellido>
+    <DireccionDelDomicilio>MItre 123</DireccionDelDomicilio>
+    <Dni>43901903</Dni>
+    <EstaActivo>false</EstaActivo>
+    <NumeroDeCliente>4</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanIntermedio">
+      <TieneFibraOptica>false</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>3500</Precio>
+      <CantidadDeMegasInternet>100</CantidadDeMegasInternet>
+      <ParamountPlusGratisPorPlanMedio>true</ParamountPlusGratisPorPlanMedio>
+      <DisneyPlusGratisPorPlanMedio>true</DisneyPlusGratisPorPlanMedio>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Mercedes</Nombre>
+    <Apellido>Rodríguez</Apellido>
+    <DireccionDelDomicilio>9 de julio 545</DireccionDelDomicilio>
+    <Dni>47904907</Dni>
+    <EstaActivo>false</EstaActivo>
+    <NumeroDeCliente>5</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanIntermedio">
+      <TieneFibraOptica>false</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>3500</Precio>
+      <CantidadDeMegasInternet>100</CantidadDeMegasInternet>
+      <ParamountPlusGratisPorPlanMedio>true</ParamountPlusGratisPorPlanMedio>
+      <DisneyPlusGratisPorPlanMedio>true</DisneyPlusGratisPorPlanMedio>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Obi-Wan</Nombre>
+    <Apellido> Kenobi</Apellido>
+    <DireccionDelDomicilio>Don torcuato 827</DireccionDelDomicilio>
+    <Dni>43334242</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>6</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanPremium">
+      <TieneFibraOptica>true</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>6000</Precio>
+      <CantidadDeMegasInternet>1000</CantidadDeMegasInternet>
+      <Netflix>true</Netflix>
+      <PackFutbol>true</PackFutbol>
+      <AmazonPrime>true</AmazonPrime>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Jorge Daniel</Nombre>
+    <Apellido>Fernandez</Apellido>
+    <DireccionDelDomicilio>Calle falsa 123</DireccionDelDomicilio>
+    <Dni>28028001</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>7</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanBasico">
+      <TieneFibraOptica>false</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>false</TieneTelefoniaFija>
+      <Precio>2000</Precio>
+      <CantidadDeMegasInternet>50</CantidadDeMegasInternet>
+      <HboGratisPorPlanBasico>true</HboGratisPorPlanBasico>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Lionel</Nombre>
+    <Apellido>Messi</Apellido>
+    <DireccionDelDomicilio>French 768</DireccionDelDomicilio>
+    <Dni>12345678</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>8</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanPremium">
+      <TieneFibraOptica>true</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>6000</Precio>
+      <CantidadDeMegasInternet>1000</CantidadDeMegasInternet>
+      <Netflix>true</Netflix>
+      <PackFutbol>true</PackFutbol>
+      <AmazonPrime>true</AmazonPrime>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Richard</Nombre>
+    <Apellido>Darin</Apellido>
+    <DireccionDelDomicilio>Ameghino 976</DireccionDelDomicilio>
+    <Dni>67644758</Dni>
+    <EstaActivo>false</EstaActivo>
+    <NumeroDeCliente>9</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanIntermedio">
+      <TieneFibraOptica>false</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>3500</Precio>
+      <CantidadDeMegasInternet>100</CantidadDeMegasInternet>
+      <ParamountPlusGratisPorPlanMedio>true</ParamountPlusGratisPorPlanMedio>
+      <DisneyPlusGratisPorPlanMedio>true</DisneyPlusGratisPorPlanMedio>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Jorge</Nombre>
+    <Apellido>Ferraresi</Apellido>
+    <DireccionDelDomicilio>Mitre 750</DireccionDelDomicilio>
+    <Dni>23456789</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>10</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanPremium">
+      <TieneFibraOptica>true</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>6000</Precio>
+      <CantidadDeMegasInternet>1000</CantidadDeMegasInternet>
+      <Netflix>true</Netflix>
+      <PackFutbol>true</PackFutbol>
+      <AmazonPrime>true</AmazonPrime>
+    </PlanEligido>
+  </Cliente>
+  <Cliente>
+    <Nombre>Juan</Nombre>
+    <Apellido>Carlos Alvarez</Apellido>
+    <DireccionDelDomicilio>Piedra buena</DireccionDelDomicilio>
+    <Dni>9897878</Dni>
+    <EstaActivo>true</EstaActivo>
+    <NumeroDeCliente>11</NumeroDeCliente>
+    <PlanEligido xsi:type="PlanIntermedio">
+      <TieneFibraOptica>false</TieneFibraOptica>
+      <TieneCable>true</TieneCable>
+      <TieneTelefoniaFija>true</TieneTelefoniaFija>
+      <Precio>3500</Precio>
+      <CantidadDeMegasInternet>100</CantidadDeMegasInternet>
+      <ParamountPlusGratisPorPlanMedio>true</ParamountPlusGratisPorPlanMedio>
+      <DisneyPlusGratisPorPlanMedio>true</DisneyPlusGratisPorPlanMedio>
+    </PlanEligido>
+  </Cliente>
+</ArrayOfCliente>
